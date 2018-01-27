@@ -13,3 +13,7 @@
 ## mobile 手机号码相关工具
 
 1. 根据手机号查询归属地信息
+
+## 安装方法
+
+> go get -u -v github.com/afanti-com/utils-go
